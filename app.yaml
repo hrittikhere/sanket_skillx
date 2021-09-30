@@ -8,7 +8,7 @@ spec:
     metadata:
       name: apple
       labels:
-        app: apple
+        app: front-end
     spec:
       containers:
         - name: apple
